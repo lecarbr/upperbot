@@ -1,0 +1,4 @@
+Chat Bot pix sem cartão php7
+#!/bin/bash 
+wget -N http://myzap.uppermesh.com.br/scripts/chatbot_pix_php7.zip	&& unzip -o chatbot_pix_php7.zip -d ../	&& chmod +x /opt/mk-auth/scripts/chatbot_update.sh && sleep 5 && sed -i '/corte/d' /etc/cron.d/corte && sed -i '8 a */15 09-21 * * *  root /opt/php5/bin/php /opt/mk-auth/scripts/corte.php 2> /dev/null' /etc/cron.d/corte && service cron restart
+
