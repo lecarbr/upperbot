@@ -1,0 +1,14 @@
+boleto em branco versoes novas, precisa acessar a pasta nano /opt/mk-auth/boleto/.htaccess
+
+
+exclui tudo e altere o conteudo para :
+
+
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^21boleto.php /boleto/boleto.hhvm [QSA,L]
+RewriteRule ^21boletos.php /boleto/boletos.hhvm [QSA,L]
+RewriteRule ^21carne.php /boleto/carne.hhvm [QSA,L]
+RewriteRule ^21carnes.php /boleto/carnes.hhvm [QSA,L]
