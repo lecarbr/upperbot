@@ -1,0 +1,11 @@
+img,enviar_img img,http://www.sounerdnet.com.br/campanhas/imagens/bemvindos.jpgcaption,enviar_caption caption, 
+
+🙋‍♀️Olá %nomeresumido% plano foi atualizado com sucesso!
+
+Seu plano antigo:  %plano_antigo%
+Plano atualizado: %plano_novo%
+Com vencimento:  %vencimento%
+
+Atenciosamente, 
+NerdNet 
+

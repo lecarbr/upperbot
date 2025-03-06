@@ -1,0 +1,21 @@
+*RECIBO DE PAGAMENTO NERDNET*
+
+[MENSAGEM AUTOMÁTICA]
+
+📃 COMPROVANTE DE PAGAMENTO
+✔️ Recebemos o seu pagamento por Boleto
+
+
+Obrigado recebemos o seu pagamento por Boleto.
+
+----------------------------------------------------------
+Pagante:   %nome_resumido%
+Número Título:   %numero_titulo%  
+Vencimento:       %data_vencimento%      
+Valor Título:       %data_vencimento%                  
+Valor Pago:        %valor_pago%    
+
+ℹ️ - Valor pago é o valor + valor com multas e juros se houver.
+----------------------------------------------------------
+
+NERDNET

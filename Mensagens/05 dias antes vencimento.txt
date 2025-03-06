@@ -1,0 +1,19 @@
+*NOME PROVEDOR*
+
+*Mensagem enviado automaticamente, não responda!*
+ *Essa mensagem é apenas um lembrete*
+
+Olá %nomecliente%, tudo bem?
+Hoje vence seu boleto da Internet com numero %numerotitulo%.
+Data de Vencimento: %vencimento%
+Valor: %valortitulo%
+
+Se foi pago, por favor desconsiderar a mensagem.
+Prazo de compensação do boleto: até 03 dias
+Prazo compensação pix imediato.
+
+Atenciosamente,
+Seu provedor
+
+📝 Código de Barras:
+upp,pular_codigo upp,%linhadig%pix,enviar_pix pix,http://kanzleraraujo.com.br/admin/addons/chat_bot/criar_cobranca_pix.php?titulo=%numerotitulo%pdf,enviar_pdf pdf,http://kanzleraraujo.com.br/boleto/boleto.hhvm?titulo=%numerotitulo%

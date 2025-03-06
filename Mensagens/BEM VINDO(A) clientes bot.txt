@@ -1,0 +1,17 @@
+BEM VINDO(A)!
+
+Seja bem vindo(a)!
+Sr.(a) %nomeresumido%
+
+Sou a 🙋‍♀️ atendente virtual, estou aqui para desejar boas vindas!
+
+✔️ Dados do plano contratado:
+📆 Data de vencimento:  %vencimento% 
+🌍 Plano de Internet Escolhido: %plano%
+
+Estou a disposição de vocês para esclarecimento de dúvidas, solicitar segunda via de boletos, chamados técnicos, entre outras funções.
+
+⏰ Gostaria de informar os horários de atendimentos:
+✔️ Segunda a Sexta:  08 as 12 / 14 as 20 horas
+✔️ Sábados:  08 as 16  horas
+❌ Domingos e Feriados:  🤖somente aqui pelo atendimento automático
